@@ -1,4 +1,4 @@
-# Telegram Bot for Prozorro Parsing
+# prozorro-parser-bot-v1
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![aiogram](https://img.shields.io/badge/aiogram-Async_Library-blueviolet)
